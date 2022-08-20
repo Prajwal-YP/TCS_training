@@ -25,7 +25,7 @@ int find(int n)
 int main()
 {
     int i,t;
-
+    
     scanf("%d",&t);
     int n[t],a[t];
     
@@ -38,6 +38,5 @@ int main()
     printf("\n\nAnswer\t:\n\n");
     for(i=0;i<t;i++)
     printf("\t\t%d\n",a[i]);
-    
     return 0;
 }
