@@ -7,7 +7,7 @@ void subArray(int a[],int n,int s)
     while(k<n-1)
     {
         sum=0;
-        for(i=k;i<n;i++)
+        for(i=k;i<n,sum<s;i++)
         {
             sum += a[i];
             if(sum==s && k!=i)
