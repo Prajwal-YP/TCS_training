@@ -1,6 +1,6 @@
-|# Problem Statement
+# Problem Statement
 ||![](https://github.com/Prajwal-YP/imageCache/blob/main/s3.png)
 
-|## Solution
+## Solution
 ||![](https://github.com/Prajwal-YP/imageCache/blob/main/s3a.png)
 
